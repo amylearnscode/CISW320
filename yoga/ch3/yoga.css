@@ -1,0 +1,37 @@
+body{
+	background-color: #F5F5F5;
+	color: #3F2860;
+	font-family: Verdana;
+
+}
+#wrapper{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+header{
+	background-color: #9BC1C2;
+	text-align: center;
+}
+h1{
+	line-height: 200%;
+}
+
+nav{
+	font-weight: bold;
+	text-align: center;
+}
+
+nav a{
+	text-decoration: none;
+}
+
+.studio{
+	font-style: italic;
+}
+footer{
+	background-color: #9BC1C2;
+	font font-size: .60em;
+	text-align: center;
+	font-style: italic;
+}
